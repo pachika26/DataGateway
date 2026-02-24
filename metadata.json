@@ -1,0 +1,5 @@
+{
+  "name": "Walmart Data Gateway",
+  "description": "A unified, AI-assisted platform for WMC Analytics to discover data, build pipelines, and manage governance with cost-aware guardrails.",
+  "requestFramePermissions": []
+}
